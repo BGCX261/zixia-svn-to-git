@@ -1,0 +1,20 @@
+#labels Featured
+#zixia's utilities.
+
+= Introduction =
+
+I have some perl/php/c code, I want to use this place (thanks google) to organize them.
+
+
+= Details =
+
+There's no code till now, but in the furture, there maybe have:
+  * Perl Code
+  * C Code
+  * HTML Code
+  * Shell script
+
+= Contact me =
+EMail / MSN / GTalk:
+
+z i x i a [ a t ] z i x i a . n e t 
